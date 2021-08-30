@@ -19,7 +19,7 @@ Objetivos Específicos
 
 **2.MARCO TEÓRICO**
 
-
+![image](https://user-images.githubusercontent.com/85134094/131352817-5d3eb296-8b0f-4a23-9981-257cced95322.png)
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
