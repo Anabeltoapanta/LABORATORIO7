@@ -25,19 +25,7 @@ Objetivos Específicos
 
 **4. PREGUNTAS A INTERROGANTES**
 
-1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
-diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare 
-comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
-* Primer circuito
-
-![image](https://user-images.githubusercontent.com/85134094/131355071-9eebdaf3-a7fe-42ea-8a54-5c28679ab586.png)
-
-![image](https://user-images.githubusercontent.com/85134094/131355223-1c873566-183e-47bf-9a0a-de50d8a576f6.png)
-
-![image](https://user-images.githubusercontent.com/85134094/131354896-b5433ee0-0ee6-4a5e-927a-53aec2f19965.png)
-
-
-** 5. VIDEO**
+**5. VIDEO**
 
 link del video 
 
@@ -46,6 +34,11 @@ link del video
 
 **6. CONCLUSONES**
 
+* El osciloscopio tiene varias funciones para realizar mediciones entre ellas podemos encontrarnos con las ondas que nos indican voltajes, periodos, frecuencias y amplitud de la corriente y para ello es necesario saber como calibrar cada funcion del aparato asi podremos observar una onda donde se reflejara todos los datos antes mencionados.
+
+* Los condensadores tienen la funcion de almacenar enegergia y gracias a esto  nos ayuda a mantener una señal constante y estable debido a que este elemento es el qu se encargara de sumistrar energía.
+
+* El inductor  gracias a su capacidad de  formar un campo electrico tiene como funcion dar paso a lo corriente electrica y a su ves  tambien se puede oponer al cambio brusco de la intensidad evitando asi un daño al circuito y asus demas elementos.
  
 
 **7. BIBLIOGRAFÍA**
