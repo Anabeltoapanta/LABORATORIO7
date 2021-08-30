@@ -9,8 +9,13 @@ MEJÍA CESAR
 
 Objetivo General
 
+* Familiarizarse con el osciloscopio como instrumento de medición para diferentes valores de voltaje e interpretar la amplitud, periodo y frecuencia de las ondas.
 
 Objetivos Específicos
+
+* Analizar el comportamiento de la corriente electrica en circuitos inductivos y capacitivos
+
+* Comprender como calibrar las diferentes funciones que tiene el osciloscopio.
 
 **2.MARCO TEÓRICO**
 
