@@ -25,7 +25,17 @@ Objetivos Específicos
 
 **4. PREGUNTAS A INTERROGANTES**
 
-**5. VIDEO**
+1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
+diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare 
+comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+* Primer circuito
+
+![image](https://user-images.githubusercontent.com/85134094/131354741-4bb03200-3b24-4de2-8092-c17dc1a910be.png)
+
+![image](https://user-images.githubusercontent.com/85134094/131354896-b5433ee0-0ee6-4a5e-927a-53aec2f19965.png)
+
+
+** 5. VIDEO**
 
 link del video 
 
