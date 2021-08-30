@@ -30,7 +30,9 @@ diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. C
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 * Primer circuito
 
-![image](https://user-images.githubusercontent.com/85134094/131354741-4bb03200-3b24-4de2-8092-c17dc1a910be.png)
+![image](https://user-images.githubusercontent.com/85134094/131355071-9eebdaf3-a7fe-42ea-8a54-5c28679ab586.png)
+
+! [imagen] (https://user-images.githubusercontent.com/85134094/131354741-4bb03200-3b24-4de2-8092-c17dc1a910be.png)
 
 ![image](https://user-images.githubusercontent.com/85134094/131354896-b5433ee0-0ee6-4a5e-927a-53aec2f19965.png)
 
