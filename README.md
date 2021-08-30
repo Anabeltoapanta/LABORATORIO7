@@ -207,6 +207,7 @@ El capacitor tiene la función de cargarse por lo que al momento de esta complet
 El inductor al ser la corriente continua esta corriente no varia con el tiempo por lo que no existe un campo magnético y por lo tampoco permite el paso de la corriente eléctrica
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
 El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo.
 
 ![image](https://user-images.githubusercontent.com/85134094/131357660-c2b058b3-279a-4ff3-8293-cb0906fc169d.png)
@@ -220,6 +221,7 @@ distintos?
 
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
 Las tensiones y corrientes alternas están expresadas por funciones oscilatorias. Debido a esto, se busca un valor numérico que exprese de manera resumida la efectividad de una señal para transmitir potencia a una carga.
 Cuando se habla del voltaje disponible para un enchufe en una residencia (por ejemplo, 110 V), este valor de voltaje se refiere a una medida de su efectividad al transmitir potencia a una carga (por ejemplo, un resistor).
 Esta medida se conoce como valor efectivo, y consiste de un valor de CD (corriente directa) que transmite la misma potencia promedio a un resistor, que la que debe transmitir una fuente variable de manera periódica.
