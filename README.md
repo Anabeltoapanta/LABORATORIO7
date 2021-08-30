@@ -203,10 +203,8 @@ Preguntas
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-Si se conecta una batería (corriente continua) a un capacitor por donde circula una corriente el capacitor puede actuar de dos maneras diferentes 
-
-Como un corto circuito cuando el capacitor está completamente descargado 
-Como un circuito abierto, cuando un capacitor está completamente cargado
+El capacitor tiene la función de cargarse por lo que al momento de esta completamente cargado este no permite el paso de la corriente eléctrica
+El inductor al ser la corriente continua esta corriente no varia con el tiempo por lo que no existe un campo magnético y por lo tampoco permite el paso de la corriente eléctrica
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo.
