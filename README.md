@@ -102,7 +102,7 @@ Amperaje multímetro=75.8mA
 
 ![image](https://user-images.githubusercontent.com/85134094/131356140-2bab6ca5-e59c-4d51-b2d0-73eb62999fbd.png)
 
-Circuito 2
+**Circuito 2**
 
 Procedemos a medir el circuito 1, el cual tiene presente una fuente de 10 V, una resistencia de 100 Ohm y 2 bobinas de 100 mH ; Procedemos a cambiar la frecuencia de: 0,10 , 50, 100, 500, 1000 Hz.
 
@@ -178,6 +178,54 @@ Amperaje multímetro= 28.52mA
 ![image](https://user-images.githubusercontent.com/85134094/131356475-bd36836f-0428-4fa3-8a20-ff2fcbf92bd1.png)
 
 **4. PREGUNTAS A INTERROGANTES**
+
+1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
+diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
+comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+**Circuito 1**
+
+![image](https://user-images.githubusercontent.com/85134094/131357266-9092ad9a-2a75-4573-b82f-44f86cc496ab.png)
+
+![image](https://user-images.githubusercontent.com/85134094/131357298-dd4e4ecc-f2bb-4f0d-9ef8-25d3f4db6241.png)
+
+![image](https://user-images.githubusercontent.com/85134094/131357326-22093f7b-2da1-4291-ac99-74ac7ea0c760.png)
+
+**Circuito 2**
+
+![image](https://user-images.githubusercontent.com/85134094/131357387-9626ce93-1b96-4996-8a04-c646fcc78533.png)
+
+![image](https://user-images.githubusercontent.com/85134094/131357469-8c95b9ac-bceb-45de-bec6-e12b120656e6.png)
+
+![image](https://user-images.githubusercontent.com/85134094/131357485-83871206-ba31-491c-bf44-9047eca514cc.png)
+
+Preguntas
+
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+Si se conecta una batería (corriente continua) a un capacitor por donde circula una corriente el capacitor puede actuar de dos maneras diferentes 
+
+Como un corto circuito cuando el capacitor está completamente descargado 
+Como un circuito abierto, cuando un capacitor está completamente cargado
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo.
+
+![image](https://user-images.githubusercontent.com/85134094/131357660-c2b058b3-279a-4ff3-8293-cb0906fc169d.png)
+
+Entonces el capacitor y el inductor se pueden representar como elementos pasivos del circuito. Al existir una variación de corriente en el circuito de corriente alterna es posible conocer los valores que puede tomar la corriente y el voltaje por medio de las funciones que describen estas en un intervalo de tiempo definido. 
+
+
+3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los
+circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
+distintos?
+
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+Las tensiones y corrientes alternas están expresadas por funciones oscilatorias. Debido a esto, se busca un valor numérico que exprese de manera resumida la efectividad de una señal para transmitir potencia a una carga.
+Cuando se habla del voltaje disponible para un enchufe en una residencia (por ejemplo, 110 V), este valor de voltaje se refiere a una medida de su efectividad al transmitir potencia a una carga (por ejemplo, un resistor).
+Esta medida se conoce como valor efectivo, y consiste de un valor de CD (corriente directa) que transmite la misma potencia promedio a un resistor, que la que debe transmitir una fuente variable de manera periódica.
+
 
 **5. VIDEO**
 
