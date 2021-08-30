@@ -246,5 +246,5 @@ https://youtu.be/dF8Gu2x9u7k
 **7. BIBLIOGRAFÍA**
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
-
+Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 11.4
 
