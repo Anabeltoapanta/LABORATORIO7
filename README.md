@@ -219,6 +219,7 @@ Ademas de  su comportamiento no gener aun campo mágneticp es decir se comporta 
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
 
+Apreciaremos que los valores medidos en la practica tendran una variación con respecto al tiempo.
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
