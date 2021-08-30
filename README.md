@@ -209,10 +209,10 @@ El inductor al ser la corriente continua esta corriente no varia con el tiempo p
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo.
+Ademas de  su comportamiento no gener aun campo mágneticp es decir se comporta como un circuito abierto
 
 ![image](https://user-images.githubusercontent.com/85134094/131357660-c2b058b3-279a-4ff3-8293-cb0906fc169d.png)
 
-Entonces el capacitor y el inductor se pueden representar como elementos pasivos del circuito. Al existir una variación de corriente en el circuito de corriente alterna es posible conocer los valores que puede tomar la corriente y el voltaje por medio de las funciones que describen estas en un intervalo de tiempo definido. 
 
 
 3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los
