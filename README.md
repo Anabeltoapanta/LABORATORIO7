@@ -229,7 +229,7 @@ Esta medida se conoce como valor efectivo, y consiste de un valor de CD (corrien
 
 link del video 
 
-
+https://youtu.be/dF8Gu2x9u7k
 
 
 **6. CONCLUSONES**
